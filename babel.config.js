@@ -21,10 +21,5 @@ module.exports = {
         },
       },
     ],
-    /**
-     * Cái này phải để cuối cùng
-     * Reference: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started
-     */
-    'react-native-reanimated/plugin',
   ],
 };
